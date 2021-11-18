@@ -1,11 +1,11 @@
 public class Lab {
-    private int var;
+    private int var1,var2;
  
     public int getter() {
-        return this.var;
+        return this.var2;
     }
  
     public void setter(int num) {
-        this.var = var;
+        this.var2 = var2;
     }
 }
